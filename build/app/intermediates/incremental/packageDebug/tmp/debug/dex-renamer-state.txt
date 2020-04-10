@@ -1,0 +1,4 @@
+#Fri Apr 10 14:45:58 PKT 2020
+base.0=/Users/fahadnasrullah/Data/Projects/Flutter/world_clock_app/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
